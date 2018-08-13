@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.std.StdSerializer;
 import com.fasterxml.jackson.databind.util.NameTransformer;
-import samples.annotation.unwrapped.Sample;
+import sample.Sample;
 
 import java.io.IOException;
 

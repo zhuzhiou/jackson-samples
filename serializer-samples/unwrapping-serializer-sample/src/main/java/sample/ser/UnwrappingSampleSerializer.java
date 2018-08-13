@@ -3,7 +3,7 @@ package sample.ser;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.std.StdSerializer;
-import samples.annotation.unwrapped.Sample;
+import sample.Sample;
 
 import java.io.IOException;
 

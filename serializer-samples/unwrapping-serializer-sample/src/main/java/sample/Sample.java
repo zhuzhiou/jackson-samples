@@ -1,7 +1,7 @@
 package sample;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import samples.annotation.unwrapped.ser.SampleSerializer;
+import sample.ser.SampleSerializer;
 
 import java.io.Serializable;
 
